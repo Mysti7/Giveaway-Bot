@@ -9,6 +9,7 @@
 node index.js
 ```
 Or
+### Run with npm
 ```sh
 npm run start
 ```
